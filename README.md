@@ -42,9 +42,9 @@ background-color: #39A9CB
 
 <h3><a name="topico1">Membros do grupo</a></h3>
 <ul>
-	<li><a href="malu.html">Maria Luiza</a>
-	</li><li><a href="julia.html">Julia</a>
-	</li><li><a href="yasmim.html">Yasmim</a>
+	<li><a href="sitemalu">Maria Luiza</a>
+	</li><li><a href="sitejulia">Julia</a>
+	</li><li><a href="siteyasmim">Yasmim</a>
 </li></ul>
 <hr>
 
